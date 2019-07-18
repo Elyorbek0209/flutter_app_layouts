@@ -3,11 +3,11 @@
 
 class Strings {
 
-  static String appBarTitle = "Maseratti";
+  static String appBarTitle = "Bugatti";
 
-  static String posterDetails = "Maseratti made in Italy";
+  static String carDetails = "Bugatti's new La Voiture Noire is designed to recall the Bugatti Type 57 SC Atlantic of the 1930s. Only four of those cars were made and, today, they're among the most valuable cars in the world. ";
 
-  static String posterTitle = "Maseratti has most expnesive car";
+  static String carTitle = "Bugatti is awesome";
 
 
 }
